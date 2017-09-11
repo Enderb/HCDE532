@@ -1,9 +1,9 @@
-<?php include('includes/header.php') ?>
+<?php include('includes/header.php'); ?>
 
             <!-- Begin Text -->
             <article id="text">
-                <h2>Header Level Two</h2>
-                <img src="./images/Ender Barillas.jpg" alt="Ender Barillas" class="align-right size-medium">
+                <h2>About: Header Level Two</h2>
+                <img src="./images/Ender Barillas.jpg" alt="Ender Barillas">
                 <p><strong>Hizzle ipsum dolizzle <em>cool</em> amizzle</strong>, consectetuer adipiscing sheezy. Nullizzle sapizzle velizzle, funky fresh volutpat, suscipit izzle, gravida dizzle, funky fresh. Pellentesque phat shizzle my nizzle crocodizzle. Sed erizzle. Mah nizzle izzle i'm in the shizzle you son of a bizzle turpis tempizzle get down get down. Maurizzle shit nibh izzle go to hizzle. Sure check it out tortor. Pellentesque eleifend ghetto daahng dawg. In hac habitasse platea dictumst. Dawg dapibizzle. Yo mamma tellizzle urna, pretium stuff, mattizzle izzle, eleifend vitae, mah nizzle. suscipizzle. Integizzle semper velit sizzle own yo'.</p>
                 <p>Etiam laorizzle urna sure nisl. Sed quis arcu. Maecenizzle pulvinizzle, ipsizzle owned malesuada shit, break yo neck, yall break it down owned tellivizzle, funky fresh luctizzle shut the shizzle up nulla izzle dizzle. Fizzle ullamcorper, tortor izzle varizzle boofron, nibh nunc ultricies go to hizzle, izzle shizzlin dizzle leo ghetto in dolor. Maurizzle ghetto, orci my<em> Helloooooo</em> shizz volutpat consectetuer, sizzle augue luctizzle brizzle, ma nizzle bow wow wow enizzle crackalackin izzle nisl. Nullizzle fo shizzle velizzle bizzle orci eleifend brizzle. Check it out nizzle break yo neck, yall. Shiz non tellivizzle <a href="http://www.sccc.premiumdw.com/"> vel pede pimpin'</a> facilisizzle. Ghetto gizzle nulla, iaculis away, brizzle i saw beyonces tizzles and my pizzle went crizzle, brizzle the bizzle, erizzle. Funky fresh vitae turpis fizzle nibh bibendizzle consequat. Fizzle pulvinar sheezy bow wow wow. Aliquizzle doggy volutpat. Crazy fo shizzle izzle at mammasay mammasa mamma oo sa you son of a bizzle its fo rizzle. Crizzle nec lacus yo dui brizzle ultricies. Ut nisl. Pimpin' et urna. Integizzle laorizzle get down get down shizznit mi. Donec rizzle turpizzle.</p>
                 <h3>Header Level Three</h3>
@@ -19,7 +19,7 @@
 
             <!-- Begin Sidebar -->
             <aside id="sidebar">
-                <h2>Page Headline</h2>
+                <h2>About: Page Headline</h2>
                 <ul>
                     <li>Helloooo222</li>
                     <li>heeeeeyyy444</li>
@@ -29,4 +29,4 @@
             </aside>
             <!-- End Sidebar -->
 
-<?php include('includes/footer.php') ?>
+<?php include('includes/footer.php'); ?>
